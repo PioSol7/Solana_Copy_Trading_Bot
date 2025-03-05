@@ -1,4 +1,4 @@
-# Raydium Volume Bot
+# Raydium Volume Bot Alpha
 
 This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's blockchain technology to perform these operations efficiently.
 
@@ -94,10 +94,8 @@ npm start
 
 ## Author
 
-Discord: skel1009 in discord
+Discord: Takhi77 in discord
 
-Twitter: [ewan_tomson](https://x.com/ewan_tomson)
-
-Telegram: [@Ruby0107](https://t.me/@Ruby0107)
+Telegram: [@Takhi777](https://t.me/@Takhi777)
 
 You can always feel free to find me here for my help on other projects.
