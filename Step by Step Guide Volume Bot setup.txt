@@ -1,0 +1,22 @@
+Step by Step Guide to running the Volume bot
+
+
+Part 1
+------
+Programs you will need to download if you have not done so.
+
+1. Visual Studio Code its a free software you need to download online directly from their website. 
+Just make a simple google search to find it. Do not mess with any install settings while installing the program to your computer.
+Just run it with the regular settings until it finishes installing and then restart your computer.
+
+2. You will need an RPC_ENDPOINT and RPC_WEBSOCKET_ENDPOINT
+These two fields are empty and you will have to get two generated addresses that you will copy
+and paste from https://www.helius.dev/pricing once you make an account with them.
+Choose the basic free account and go to the user settings.
+You can purchase any of the higher packages if you want faster volume transactions.
+Once you are in the dashboard after logging in
+Click the RPC tab on the left hand side.
+You will find the RPC Control Panel only use the Mainnet settings. Do not touch the Devnet
+There is a copy button in orange to copy the RPC URL: you want to paste it exactly after
+the = sign on the env.copy document. Do not leave any spaces between the = sign and the RPC URL
+Do the same with the WebSocket URL leaving no spaces between the = sign and the WebSocket URL on the env.copy file
