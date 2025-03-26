@@ -68,8 +68,8 @@ Follow these steps to get your **Copy trading Bot** up and running!
 
 ## Author
 
-Discord: Takhi77 in discord
+Discord: takhi_77 in discord
 
-Telegram: [@Takhi777](https://t.me/@Takhi777)
+Telegram: [@SolSon](https://t.me/@pio_sol)
 
 You can always feel free to find me here for my help on other projects.
