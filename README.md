@@ -60,7 +60,7 @@ LOG_LEVEL=info               # Logging level (info, debug, error)
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/skeleton1009/Raydium-volume-bot.git
+git clone https://github.com/dev-takhi77/Raydium-volume-bot.git
 cd raydium-volume-bot
 ```
 2. Install dependencies
@@ -94,8 +94,8 @@ npm start
 
 ## Author
 
-Discord: Takhi77 in discord
+Discord: takhi_77 in discord
 
-Telegram: [@Takhi777](https://t.me/@Takhi777)
+Telegram: [@Takhi](https://t.me/@takhi_77)
 
 You can always feel free to find me here for my help on other projects.
