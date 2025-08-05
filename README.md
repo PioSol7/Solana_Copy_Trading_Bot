@@ -1,4 +1,4 @@
-# Raydium Volume Bot Alpha
+# Raydium Launchlab & Bonkfun Volume Bot Alpha
 
 This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's blockchain technology to perform these operations efficiently.
 
@@ -60,8 +60,8 @@ LOG_LEVEL=info               # Logging level (info, debug, error)
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/dev-takhi77/Raydium-volume-bot.git
-cd raydium-volume-bot
+git clone https://github.com/TakhiSol/Solana_Raydium_Bonkfun_Volume_Bot.git
+cd Solana_Raydium_Bonkfun_Volume_Bot
 ```
 2. Install dependencies
 ```
@@ -94,8 +94,8 @@ npm start
 
 ## Author
 
-Discord: takhi_77 in discord
+Discord: takhi777 in discord
 
-Telegram: [@Takhi](https://t.me/@takhi_77)
+Telegram: [@Takhi77](https://t.me/@hi_3333)
 
 You can always feel free to find me here for my help on other projects.
