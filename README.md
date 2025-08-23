@@ -94,8 +94,8 @@ npm start
 
 ## Author
 
-Discord: takhi777 in discord
+Discord: pio_ne_er in discord
 
-Telegram: [@Takhi77](https://t.me/@hi_3333)
+Telegram: [@Pioneer](https://t.me/@hi_3333)
 
 You can always feel free to find me here for my help on other projects.
